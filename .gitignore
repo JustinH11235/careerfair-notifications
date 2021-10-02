@@ -1,0 +1,4 @@
+log.txt
+geckodriver.log
+.venv
+env.sh
